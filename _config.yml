@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Amazing Website
+title: Prateek Gothwal
 
 # Your name to show in the footer
-author: Some Person
+author: Prateek Gothwal
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,8 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  
 ################
 # --- Logo --- #
 ################
